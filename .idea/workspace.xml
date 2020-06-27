@@ -14,8 +14,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/studentExpense/StudentExpenseTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="410">
-              <caret line="154" column="55" selection-start-line="154" selection-start-column="55" selection-end-line="154" selection-end-column="55" />
+            <state relative-caret-position="70">
+              <caret line="134" column="16" lean-forward="true" selection-start-line="134" selection-start-column="16" selection-end-line="134" selection-end-column="16" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -127,7 +127,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1593277756512" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1593278343148" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -143,7 +143,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.StudentExpenseTest">
+    <configuration name="StudentExpenseTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.studentExpense.StudentExpenseTest" />
+      <module name="studentExpense" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.studentExpense.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.studentExpense.Test" />
       <module name="studentExpense" />
@@ -157,8 +170,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.Test" />
+      <item itemvalue="Application.StudentExpenseTest" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StudentExpenseTest" />
         <item itemvalue="Application.Test" />
       </list>
     </recent_temporary>
@@ -178,12 +196,12 @@
       <workItem from="1592996039160" duration="13048000" />
       <workItem from="1593064400035" duration="11923000" />
       <workItem from="1593171481682" duration="3733000" />
-      <workItem from="1593251670798" duration="17181000" />
+      <workItem from="1593251670798" duration="17740000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="62586000" />
+    <option name="totallyTimeSpent" value="63145000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -333,8 +351,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/studentExpense/StudentExpenseTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="410">
-          <caret line="154" column="55" selection-start-line="154" selection-start-column="55" selection-end-line="154" selection-end-column="55" />
+        <state relative-caret-position="70">
+          <caret line="134" column="16" lean-forward="true" selection-start-line="134" selection-start-column="16" selection-end-line="134" selection-end-column="16" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
