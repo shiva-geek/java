@@ -1,22 +1,25 @@
 EXecution Class file is in below directory
-cd java\out\production\studentExpense\com\studentExpense
+C:\Users\sivakumar_v\Documents\GitHub\java\src\com\studentExpense
 
-Compilation:
-javac StudentExpenseTest.java
-Execute Command:
-java StudentExpenseTest
+Below are the procedures to follow to Run in command prompt Windows.
 
+Before Run the program,The requirements are given below:
 The java 1.6 or above required and attached the screenshot for reference for to configure the java for runing the command(mycomputer->advanced system properties).
+
 C:\ drive required,Incase if u want to change the directory,change the below Lines and save it:
+
  private static final String DIRECTORY_NAME ="c:\\StudExpenseFiles";
     private static final String BILL_DIRECTORY_NAME="c:\\StudExpenseFiles\\bill";
     private static final String ITEM_DIRECTORY_NAME ="c:\\StudExpenseFiles\\checkOut";
 
-Execute the below Commands:
+Once Done the above,Execute the below:
+
 Compilation:
 javac StudentExpenseTest.java
 Execute Command:
 java StudentExpenseTest
+
+
 
 
 
