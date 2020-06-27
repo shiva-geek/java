@@ -1,0 +1,24 @@
+EXecution Class file is in below directory
+cd java\out\production\studentExpense\com\studentExpense
+
+Compilation:
+javac StudentExpenseTest.java
+Execute Command:
+java StudentExpenseTest
+
+The java 1.6 or above required and attached the screenshot for reference for to configure the java for runing the command(mycomputer->advanced system properties).
+C:\ drive required,Incase if u want to change the directory,change the below Lines and save it:
+ private static final String DIRECTORY_NAME ="c:\\StudExpenseFiles";
+    private static final String BILL_DIRECTORY_NAME="c:\\StudExpenseFiles\\bill";
+    private static final String ITEM_DIRECTORY_NAME ="c:\\StudExpenseFiles\\checkOut";
+
+Execute the below Commands:
+Compilation:
+javac StudentExpenseTest.java
+Execute Command:
+java StudentExpenseTest
+
+
+
+
+
