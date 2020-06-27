@@ -12,10 +12,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/studentExpense/Test.java">
+        <entry file="file://$PROJECT_DIR$/src/com/studentExpense/StudentExpenseTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="71" lean-forward="true" selection-start-line="11" selection-start-column="71" selection-end-line="11" selection-end-column="71" />
+            <state relative-caret-position="410">
+              <caret line="154" column="55" selection-start-line="154" selection-start-column="55" selection-end-line="154" selection-end-column="55" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -59,6 +59,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/com/studentExpense/Test.java" />
+        <option value="$PROJECT_DIR$/src/com/studentExpense/StudentExpenseTest.java" />
       </list>
     </option>
   </component>
@@ -68,7 +69,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-12" />
     <option name="y" value="-12" />
     <option name="width" value="1104" />
@@ -78,12 +79,55 @@
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="studentExpense" type="b2602c69:ProjectViewProjectNode" />
+              <item name="studentExpense" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="studentExpense" type="b2602c69:ProjectViewProjectNode" />
+              <item name="studentExpense" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="studentExpense" type="b2602c69:ProjectViewProjectNode" />
+              <item name="studentExpense" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="production" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="studentExpense" type="b2602c69:ProjectViewProjectNode" />
+              <item name="studentExpense" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="production" type="462c0819:PsiDirectoryNode" />
+              <item name="studentExpense" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="studentExpense" type="b2602c69:ProjectViewProjectNode" />
+              <item name="studentExpense" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="studentExpense" type="b2602c69:ProjectViewProjectNode" />
+              <item name="studentExpense" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="studentExpense" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1593273104220" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1593277756512" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -134,12 +178,12 @@
       <workItem from="1592996039160" duration="13048000" />
       <workItem from="1593064400035" duration="11923000" />
       <workItem from="1593171481682" duration="3733000" />
-      <workItem from="1593251670798" duration="15831000" />
+      <workItem from="1593251670798" duration="17181000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="61236000" />
+    <option name="totallyTimeSpent" value="62586000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -151,10 +195,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1295" height="697" extended-state="7" />
+    <frame x="-7" y="-7" width="1295" height="697" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.24939272" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24939272" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -224,37 +268,37 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/studentExpense/Test.java</url>
+          <url>file://$PROJECT_DIR$/src/com/studentExpense/StudentExpenseTest.java</url>
           <line>108</line>
           <properties />
           <option name="timeStamp" value="7" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/studentExpense/Test.java</url>
+          <url>file://$PROJECT_DIR$/src/com/studentExpense/StudentExpenseTest.java</url>
           <line>330</line>
           <properties />
           <option name="timeStamp" value="10" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/studentExpense/Test.java</url>
+          <url>file://$PROJECT_DIR$/src/com/studentExpense/StudentExpenseTest.java</url>
           <line>348</line>
           <properties />
           <option name="timeStamp" value="12" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/studentExpense/Test.java</url>
+          <url>file://$PROJECT_DIR$/src/com/studentExpense/StudentExpenseTest.java</url>
           <line>335</line>
           <properties />
           <option name="timeStamp" value="16" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/studentExpense/Test.java</url>
+          <url>file://$PROJECT_DIR$/src/com/studentExpense/StudentExpenseTest.java</url>
           <line>362</line>
           <properties />
           <option name="timeStamp" value="19" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/studentExpense/Test.java</url>
+          <url>file://$PROJECT_DIR$/src/com/studentExpense/StudentExpenseTest.java</url>
           <line>367</line>
           <properties />
           <option name="timeStamp" value="20" />
@@ -277,10 +321,20 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/studentExpense/Test.java">
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Temp1_java-master.zip/java-master/src/com/studentExpense/Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="71" lean-forward="true" selection-start-line="11" selection-start-column="71" selection-end-line="11" selection-end-column="71" />
+        <state relative-caret-position="-4913">
+          <caret line="2" column="7" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/studentExpense/StudentExpenseTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="410">
+          <caret line="154" column="55" selection-start-line="154" selection-start-column="55" selection-end-line="154" selection-end-column="55" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
